@@ -1,9 +1,12 @@
-<p align="center">
-  <a href="https://findmate.app/" target="_blank">
-    Findmate
-  </a>
-</p>
+### NPM
 
+```bash
+npm install uploadcare-vue --save
+```
+
+```javascript
+import Uploadcare from 'uploadcare-vue'
+```
 ___
 
 # Uploadcare Vue
